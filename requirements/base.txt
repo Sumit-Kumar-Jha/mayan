@@ -1,5 +1,5 @@
 Pillow==6.2.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PyYAML==5.1.2
 celery==4.3.0
 django-activity-stream==0.7.0
